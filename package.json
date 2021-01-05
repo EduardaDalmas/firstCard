@@ -9,7 +9,7 @@
     "dev": "webpack-dev-server --mode=development"
   },
   "dependencies": {
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "bootstrap": "^4.4.0",
     "sequelize": "^5.21.3",
     "webpack": "^4.41.2",
